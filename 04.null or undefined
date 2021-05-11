@@ -5,14 +5,14 @@
 
 null은 특정 값이 없다고 선언할 때 사용
 선언 방법
-let A = null;
-const A = null;
+let 입력 = null;
+const 입력 = null;
 
 ==============================================
 
  undefiend는 아직 값이 설정되지 않은 것을 의미
  선언 방법 
- let A = undefiend;
- const A = undefiend;
+ let 입력 = undefiend;
+ const 입력 = undefiend;
 
 
