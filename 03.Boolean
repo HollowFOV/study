@@ -6,15 +6,15 @@
 
 true 참을 의미함 
 선언 방법
-let A = true;
-const A = true;
+let 입력 = true;
+const 입력 = true;
 
 ==============================================
 
 false 거짓을 의미함
 선언 방법 
-let A = false;
-const A = false;
+let 입력 = false;
+const 입력 = false;
 
 
 
